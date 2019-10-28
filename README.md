@@ -1,2 +1,2 @@
-# gitrep3
+# getrep3
 git repo for ex 2
